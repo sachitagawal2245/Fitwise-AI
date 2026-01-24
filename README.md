@@ -48,13 +48,13 @@ Daily diet plan
 Short explanation of the recommendations
 All results are displayed in a structured and user-friendly format.
 
- Future Scope
-Integration with wearable devices
-Calorie tracking and progress monitoring
-Mobile app version
-Multilingual support
-Medical-condition-aware recommendations
-Cloud deployment
+ Future Scope:
+1.Integration with wearable devices
+2.Calorie tracking and progress monitoring
+3.Mobile app version
+4.Multilingual support
+5.Medical-condition-aware recommendations
+6.Cloud deployment
 
  Author
 
