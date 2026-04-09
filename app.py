@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+OPENROUTER_API_KEY ="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"
 
 if not OPENROUTER_API_KEY:
     st.error("❌ API Key not found. Check your .env file.")
